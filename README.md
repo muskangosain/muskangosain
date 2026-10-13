@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Muskan Gosain  
 
-💻 **Frontend Developer | React & Full Stack JavaScript Developer**  
-🌍 Open to remote opportunities  
+ Full Stack Developer 
 
 ---
 
