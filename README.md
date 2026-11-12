@@ -8,7 +8,7 @@ I build the whole thing: the interface people touch, and the system that has to 
 
 ### How I work
 
-Words before code. The cost of a tradeoff stated next to the tradeoff. Something small that's true over something big that's impressive.
+I learn the business before I touch the code, because the hardest bugs are usually vocabulary bugs: two systems using one word for two different things. I write down what a system should do, and what it should refuse to do, before I build it. Then I ship the smallest version that is correct, measure it, and grow it from there. Every tradeoff comes with what it cost, so my work can be argued with instead of just trusted.
 
 ### Stack
 
